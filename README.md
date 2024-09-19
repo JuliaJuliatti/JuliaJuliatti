@@ -5,8 +5,6 @@
 
 ## Olá, eu sou a Julia Juliatti! 👋
 
-Atualmente sou jovem aprendiz de Soluções Digitais na Bosch Brasil. Estou cursando Técnico em Desenvolvimento de Sistemas no SENAI e Engenharia da Computação na UNIVESP. Meu objetivo é explorar várias áreas da tecnologia, com foco especial em Inteligência Artificial usando Python (YOLO e OpenCV) e UI/UX. Sempre busco melhorar e aprender continuamente.
-
 - 🔭 **Jovem aprendiz de Soluções Digitais** na Bosch Brasil.
 - 👩‍🎓 **Cursando Técnico em Desenvolvimento de Sistemas** no SENAI e **Engenharia da Computação** na UNIVESP.
 - 🤖 Foco em **Inteligência Artificial** com Python (YOLO e OpenCV) e **UI/UX**.
